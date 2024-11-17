@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/Abiotic-Factor-Simple-Save-Editor/'
+  base: '/abf_simple_save_editor/'
 })
