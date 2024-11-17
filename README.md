@@ -1,3 +1,5 @@
+https://bakaniner.github.io/abf_simple_save_editor/
+
 This is a very, very simple save editor for the game Abiotic Factor. For now, and maybe forever, it only supports editing the player's save file - including the items in equipment, hotbar, and inventory.
 The player's save file is located at %localappdata%/Abiotic Factor/Saved/SaveGames/[Your ID]/Worlds/[Your World Name]/PlayerData/Player_[Your ID].sav.
 Please remember to back up your save file before editing.
