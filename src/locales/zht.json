@@ -1,0 +1,13 @@
+{
+    "title": "無機要素簡易存檔編輯器",
+    "description": "這是一個非常非常簡單的存檔編輯器，而且也許之後也不會更新。目前僅支持編輯玩家存檔中裝備欄、快捷欄和背包欄中的物品。\n玩家存檔位於：%localappdata%/Abiotic Factor/Saved/SaveGames/[你的ID]/Worlds/[你的世界名稱]/PlayerData/Player_[你的ID].sav。\n請記得在編輯前備份存檔。",
+    "upload": "上傳存檔",
+    "download": "下載修改後的存檔",
+    "equipment": "裝備欄",
+    "hotbar": "快捷欄",
+    "inventory": "背包欄",
+    "cur_durability": "當前耐久",
+    "max_durability": "最大耐久",
+    "stack": "堆疊個數",
+    "ammo": "子彈個數"
+}

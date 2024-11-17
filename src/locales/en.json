@@ -1,0 +1,13 @@
+{
+    "title": "Abiotic Factor Simple Save Editor",
+    "description": "This is a very, very simple save editor for the game Abiotic Factor. For now, and maybe forever, it only supports editing the player's save file - including the items in equipment, hotbar, and inventory.\nThe player's save file is located at %localappdata%/Abiotic Factor/Saved/SaveGames/[Your ID]/Worlds/[Your World Name]/PlayerData/Player_[Your ID].sav.\nPlease remember to back up your save file before editing.",
+    "upload": "Upload Save File",
+    "download": "Download Modified Save File",
+    "equipment": "Equipment",
+    "hotbar": "Hotbar",
+    "inventory": "Inventory",
+    "cur_durability": "Current Durability",
+    "max_durability": "Max Durability",
+    "stack": "Stack",
+    "ammo": "Ammo"
+}

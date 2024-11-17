@@ -1,0 +1,13 @@
+{
+    "title": "非生物因素简易存档编辑器",
+    "description": "这是一个非常非常简单的存档编辑器，而且也许之后也不会更新。目前仅支持编辑玩家存档中装备栏、快捷栏和背包栏中的物品。\n玩家存档位于：%localappdata%/Abiotic Factor/Saved/SaveGames/[你的ID]/Worlds/[你的世界名称]/PlayerData/Player_[你的ID].sav\n请记得在编辑前备份存档。",
+    "upload": "上传存档",
+    "download": "下载修改后的存档",
+    "equipment": "装备栏",
+    "hotbar": "快捷栏",
+    "inventory": "背包栏",
+    "cur_durability": "当前耐久",
+    "max_durability": "最大耐久",
+    "stack": "堆叠个数",
+    "ammo": "子弹个数"
+}
